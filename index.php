@@ -48,7 +48,7 @@ function check(form)
 {
 if(form.userid.value == "Ilyas" && form.pwd.value == "123")
 {
-    form.action = "https://alatooooooo.herokuapp.com";
+    form.action = "https://indexad.herokuapp.com/";
     return true;
 }
 
